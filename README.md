@@ -58,7 +58,7 @@
   - [在线演示](#在线演示)
   - [功能](#功能)
   - [Reference](#reference)
-  - [Join Community](#join-community)
+  - [Sponsors](#sponsors)
 
 ## 功能
 
